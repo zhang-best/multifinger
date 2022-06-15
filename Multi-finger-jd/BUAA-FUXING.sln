@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUAA-FUXING", "Assembly-CSharp.csproj", "{405E0581-FC2C-3523-5B26-350233C08A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUAA-FUXING", "Assembly-CSharp-Editor.csproj", "{3E0F0ED7-9229-A6F5-4F5F-F8A71D3B6B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405E0581-FC2C-3523-5B26-350233C08A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E0581-FC2C-3523-5B26-350233C08A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E0581-FC2C-3523-5B26-350233C08A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E0581-FC2C-3523-5B26-350233C08A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0F0ED7-9229-A6F5-4F5F-F8A71D3B6B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0F0ED7-9229-A6F5-4F5F-F8A71D3B6B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0F0ED7-9229-A6F5-4F5F-F8A71D3B6B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0F0ED7-9229-A6F5-4F5F-F8A71D3B6B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

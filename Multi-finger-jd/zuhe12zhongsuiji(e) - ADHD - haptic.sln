@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D33B908D-054D-383E-28BE-1E4CC9132D43}") = "zuhe12zhongsuiji(e) - ADHD - haptic", "Assembly-CSharp.csproj", "{6949A2AA-1ADC-B47A-B153-5ABF333E30D9}"
+EndProject
+Project("{D33B908D-054D-383E-28BE-1E4CC9132D43}") = "zuhe12zhongsuiji(e) - ADHD - haptic", "Assembly-CSharp-Editor.csproj", "{B472A959-EA49-9E49-AE5F-CDB3B4B5C713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6949A2AA-1ADC-B47A-B153-5ABF333E30D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6949A2AA-1ADC-B47A-B153-5ABF333E30D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6949A2AA-1ADC-B47A-B153-5ABF333E30D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6949A2AA-1ADC-B47A-B153-5ABF333E30D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B472A959-EA49-9E49-AE5F-CDB3B4B5C713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B472A959-EA49-9E49-AE5F-CDB3B4B5C713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B472A959-EA49-9E49-AE5F-CDB3B4B5C713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B472A959-EA49-9E49-AE5F-CDB3B4B5C713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E4384931-E603-FC3F-0A9A-1FCC144872FF}") = "ScoreData - ADHD - haptic", "Assembly-CSharp.csproj", "{6D828AA6-465E-DEF4-05E2-25F88ADF9B41}"
+EndProject
+Project("{E4384931-E603-FC3F-0A9A-1FCC144872FF}") = "ScoreData - ADHD - haptic", "Assembly-CSharp-Editor.csproj", "{40F3D667-BBC3-C5D9-DCD6-FB40B2D08DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D828AA6-465E-DEF4-05E2-25F88ADF9B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D828AA6-465E-DEF4-05E2-25F88ADF9B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D828AA6-465E-DEF4-05E2-25F88ADF9B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D828AA6-465E-DEF4-05E2-25F88ADF9B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F3D667-BBC3-C5D9-DCD6-FB40B2D08DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F3D667-BBC3-C5D9-DCD6-FB40B2D08DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F3D667-BBC3-C5D9-DCD6-FB40B2D08DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F3D667-BBC3-C5D9-DCD6-FB40B2D08DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
